@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your Text Magnus
+Mixed This up
 Use the left Arrow to go back!
